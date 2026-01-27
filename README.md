@@ -1,6 +1,6 @@
-# 📂 cp-archive
+# 📂 aps-archive
 
-A structured archive of my competitive programming solutions, including problems from **Codeforces**, **AtCoder**, and **LeetCode**.
+A structured archive of my algorithmic problem solving exercises, including problems from **Codeforces**, **AtCoder**, and **LeetCode**.
 
 Each entry is documented in the following format:
 
