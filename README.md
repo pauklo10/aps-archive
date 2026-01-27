@@ -1,6 +1,6 @@
 # 📂 aps-archive
 
-A structured archive of my algorithmic problem solving exercises, including problems from **Codeforces**, **AtCoder**, and **LeetCode**.
+A structured archive of some problem solving exercises, including problems from **Codeforces**, **AtCoder**, and **LeetCode**.
 
 Each entry is documented in the following format:
 
