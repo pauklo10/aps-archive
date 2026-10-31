@@ -1,4 +1,4 @@
-# 📂 aps-archive
+# aps-archive
 
 A structured archive of some problem solving exercises, including problems from **Codeforces**, **AtCoder**, and **LeetCode**.
 
